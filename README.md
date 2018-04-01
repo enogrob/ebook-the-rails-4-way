@@ -16,15 +16,15 @@ Learn everything you need to about the subject of this `eBook` project.
 
 ## Topics
 ```
-[ ] Foreword by Steve Klabnik xxxix
-[ ] Foreword to the Previous Edition by David Heinemeier Hansson xli
-[ ] Foreword to the Previous Edition by Yehuda Katz xliii
-[ ] Introduction xlv
-[ ] Acknowledgments li
-[ ] About the Authors liii
+[x] Foreword by Steve Klabnik xxxix
+[x] Foreword to the Previous Edition by David Heinemeier Hansson xli
+[x] Foreword to the Previous Edition by Yehuda Katz xliii
+[x] Introduction xlv
+[x] Acknowledgments li
+[x] About the Authors liii
 
 Chapter 1: Rails Environments and Configuration 1
-[ ] 1.1 Bundler 2
+[x] 1.1 Bundler 2
 [ ] 1.2 Startup and Application Settings 9
 [ ] 1.3 Development Mode 18
 [ ] 1.4 Test Mode 22
