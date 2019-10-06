@@ -9,10 +9,11 @@
 
 ---
 
-### 1. Chapter 1
+### Chapter 1
+Rails Environments and Configuration
 
----
++++
 
 #### Some Related Links
 
-[Homepage](https://ebook.com)
+[Homepage](https://github.com/enogrob/ebook-the-rails-4-way)
