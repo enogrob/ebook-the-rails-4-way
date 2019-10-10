@@ -25,8 +25,8 @@ Learn everything you need to about the subject of this `eBook` project.
 
 Chapter 1: Rails Environments and Configuration 1
 [x] 1.1 Bundler 2
-[x] 1.2 Startup and Application Settings 9
-[x] 1.3 Development Mode 18
+[ ] 1.2 Startup and Application Settings 9
+[ ] 1.3 Development Mode 18
 [ ] 1.4 Test Mode 22
 [ ] 1.5 Production Mode 23
 [ ] 1.6 Configuring a Database 26
